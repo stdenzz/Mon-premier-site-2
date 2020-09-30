@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    font-size: 45px;
+}
+
+p {
+    font-size: 20px
+}
+
+.intro {
+    color: green
+}
+
+img {
+    width: 500px;
+}
